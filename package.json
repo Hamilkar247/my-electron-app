@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-name",
+  "version": "1.0.0",
+  "description": "cos z opisem",
+  "main": "main.js",
+  "repository": "git@github.com:Hamilkar247/my-electron-app.git",
+  "author": "hamilkar",
+  "license": "none",
+  "private": null,
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+  "scripts": {
+    "start": "electron ."
+  }
+}
